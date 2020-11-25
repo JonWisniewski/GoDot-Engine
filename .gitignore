@@ -1,3 +1,4 @@
+# goDot Engine ignore files
 ####################################################################
 
 # Godot-specific ignores
@@ -12,6 +13,7 @@ export_presets.cfg
 */.mono/
 data_*/
 
+# C# ignore files
 ####################################################################
 
 # The following command works for downloading when using Git for Windows:
