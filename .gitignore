@@ -10,7 +10,7 @@ export_presets.cfg
 *.translation
 
 # Mono-specific ignores
-*/.mono/
+.mono/
 data_*/
 
 ## Ignore Visual Studio temporary files, build results, and
